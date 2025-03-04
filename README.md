@@ -23,7 +23,7 @@
 
 - 📫 How to reach me: <a href="mailto:sharmanandini.1806@gmail.com">Mail Me</a>
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/10Lm5be8eX8PYYXGiqELOExwIpru3mIS2/view?usp=drive_link)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1Imt3DTrgOOX4FegTFhr3feBzWgOwX-Tq/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
