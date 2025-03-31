@@ -2,7 +2,7 @@
     <img src="https://github.com/user-attachments/assets/f98c8e66-efe0-4c9d-9d00-37eed3e8acf9" width="90%" height="380"/>
 </div>
 <div id="badges1" align="center">
-    <a href="www.linkedin.com/in/nandini-sharma-ns1806">
+    <a href="https://www.linkedin.com/in/nandini-sharma-ns1806">
         <img src="https://img.shields.io/badge/LinkedIn-brightblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
 </div>
@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="www.linkedin.com/in/nandini-sharma-ns1806" target="blank">
+    <a href="whttps://www.linkedin.com/in/nandini-sharma-ns1806" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" width="50"/>
     </a>
 </p>
