@@ -10,7 +10,7 @@
 ---
 
 <h2 align="center"> Hi 👋, I'm Nandini Sharma</h2>
-<h3 align="center">AWS and DevOps enthusiast with a passion for cloud computing and scalable solutions.</h3>
+<h3 align="center">Dedicated to mastering AWS and DevOps for seamless automation and scalable cloud solutions.</h3>
 <img align="right" alt="Coding" width="300" src="https://github.com/user-attachments/assets/97fa9a3e-2504-461a-b855-5ca22710c731">
 
 
