@@ -23,7 +23,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-    <a href="whttps://www.linkedin.com/in/nandini-sharma-ns1806" target="blank">
+    <a href="https://www.linkedin.com/in/nandini-sharma-ns1806" target="blank">
         <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" width="50"/>
     </a>
 </p>
