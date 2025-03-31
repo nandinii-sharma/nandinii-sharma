@@ -10,7 +10,7 @@
 ---
 
 <h2 align="center"> Hi 👋, I'm Nandini Sharma</h2>
-<h3 align="center">Enthusiastic B.Tech graduate Nandini Sharma, skilled in C++, Python, and passionate about AWS and DevOps.</h3>
+<h3 align="center">AWS and DevOps enthusiast with a passion for cloud computing and scalable solutions.</h3>
 <img align="right" alt="Coding" width="300" src="https://github.com/user-attachments/assets/97fa9a3e-2504-461a-b855-5ca22710c731">
 
 
@@ -24,20 +24,22 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
     <a href="https://www.linkedin.com/in/nandini-sharma-ns1806" target="blank">
-        <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="LinkedIn" height="40" width="50"/>
+        <img align="center" src="https://github.com/user-attachments/assets/f3e689e7-a949-43ad-9194-3ef078d25e39" alt="LinkedIn" height="40" width="40"/>
     </a>
 </p>
+
+
 
 ---
 
 ### ✍️ Dev Quote
 <blockquote>
-    "The cloud is the future, and DevOps is the bridge that connects innovation to seamless deployment. AWS empowers you to scale, automate, and optimize like never before."
+    "The cloud is the future, and DevOps is the bridge that connects innovation to seamless deployment."
 </blockquote>
 
 ---
 
-<h3 align="left">Languages, Tools, and Technologies (AWS & DevOps):</h3>
+<h3 align="left">Languages, Tools, and Technologies :</h3>
 <p align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.jenkins.io/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> </a>
     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
@@ -49,4 +51,4 @@
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nandinii-sharma&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
