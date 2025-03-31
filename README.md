@@ -18,7 +18,7 @@
 - 🌱 I’m currently learning *AWS Cloud* and exploring *DevOps* practices.
 - 💬 Ask me about *Python, C++, AWS, and DevOps*.
 - 📫 How to reach me: <a href="mailto:sharmanandini.1806@gmail.com">Mail Me</a>
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1Imt3DTrgOOX4FegTFhr3feBzWgOwX-Tq/view?usp=drive_link)
+- 📄 Know about my experiences: [Resume](https://github.com/user-attachments/files/19538664/Nandini_Resume.2.pdf)
 
 
 <h3 align="left">Connect with me:</h3>
