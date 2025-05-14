@@ -1,5 +1,5 @@
 <div id="header" align="center">
-    <img src="https://github.com/user-attachments/assets/f98c8e66-efe0-4c9d-9d00-37eed3e8acf9" width="90%" height="380"/>
+    <img src="https://github.com/nandinii-sharma/nandinii-sharma/blob/main/gif3.gif" width="100%" height="380"/>
 </div>
 <div id="badges1" align="center">
     <a href="https://www.linkedin.com/in/nandini-sharma-ns1806">
