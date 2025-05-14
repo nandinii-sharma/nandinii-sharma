@@ -19,7 +19,7 @@
 - 🌱 Learning *AWS Cloud* and diving deep into cloud-based solutions
 - 💬 Ask me about JavaScript, Node.js, AWS Lambda, DynamoDB, API Gateway, Serverless Framework, and IAM
 - 📫 How to reach me: <a href="mailto:sharmanandini.1806@gmail.com">Mail Me</a>
-- 📄 Know about my experiences: [Resume](https://github.com/user-attachments/files/19538664/Nandini_Resume.2.pdf)
+- 📄 Know about my experiences: [Resume](https://github.com/nandinii-sharma/nandinii-sharma/blob/main/Nandini_Resume..pdf)
 
 
 <h3 align="left">Connect with me:</h3>
