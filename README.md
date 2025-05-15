@@ -41,7 +41,7 @@
 ---
 ### 🧰 Tech Stack
 
-<img align="right" alt="Coding" width="400" src="https://github.com/nandinii-sharma/nandinii-sharma/blob/main/aws.png">
+<img align="right" alt="Coding" width="380" src="https://github.com/nandinii-sharma/nandinii-sharma/blob/main/aws.png">
 
 **Languages & Runtime**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
