@@ -11,7 +11,7 @@
 
 <h2 align="center"> Hi 👋, I'm Nandini Sharma</h2>
 <h3 align="center">Cloud Engineer & Backend Developer | Expertise in AWS Cloud Technologies</h3>
-<img align="right" alt="Coding" width="300" src="https://github.com/user-attachments/assets/97fa9a3e-2504-461a-b855-5ca22710c731">
+<img align="right" alt="Coding" width="330" src="https://github.com/nandinii-sharma/nandinii-sharma/blob/main/gif4.gif">
 
 
 
