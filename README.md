@@ -11,7 +11,7 @@
 
 <h2 align="center"> Hi 👋, I'm Nandini Sharma</h2>
 <h3 align="center">Cloud Engineer & Backend Developer | Expertise in AWS Cloud Technologies</h3>
-<img align="right" alt="Coding" width="330" src="https://github.com/nandinii-sharma/nandinii-sharma/blob/main/gif4.gif">
+<img align="right" alt="Coding" width="340" src="https://github.com/nandinii-sharma/nandinii-sharma/blob/main/gif4.gif">
 
 
 
@@ -41,6 +41,8 @@
 ---
 ### 🧰 Tech Stack
 
+<img align="right" alt="Coding" width="400" src="https://github.com/nandinii-sharma/nandinii-sharma/blob/main/aws.png">
+
 **Languages & Runtime**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -51,6 +53,8 @@
 ![Serverless](https://img.shields.io/badge/Serverless-FD5750?style=flat&logo=serverless&logoColor=white)
 ![API Gateway](https://img.shields.io/badge/API_Gateway-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
 ![IAM](https://img.shields.io/badge/IAM-FF9900?style=flat&logo=amazonaws&logoColor=white)
+
+
 
 **IaC**  
 ![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=flat&logo=amazonaws&logoColor=white)
@@ -68,6 +72,10 @@
 **Monitoring & Storage**  
 ![CloudWatch](https://img.shields.io/badge/CloudWatch-FF9900?style=flat&logo=amazonaws&logoColor=white)
 ![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=flat&logo=amazon-s3&logoColor=white)
+
+
+
+
 
 ---
 
