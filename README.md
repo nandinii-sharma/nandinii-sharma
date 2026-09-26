@@ -15,7 +15,7 @@
 
 
 
-- ✨ Currently working at **VAM Securities** as a **Cloud Engineer & Backend Developer**
+- ✨ Currently working at **NTT DATA** as a **Application Developer**
 - 🌱 Learning *AWS Cloud* and diving deep into cloud-based solutions
 - 💬 Ask me about JavaScript, Node.js, AWS Lambda, DynamoDB, API Gateway, Serverless Framework, and IAM
 - 📫 How to reach me: <a href="mailto:sharmanandini.1806@gmail.com">Mail Me</a>
